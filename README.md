@@ -1,4 +1,3 @@
-<img width="4162" height="4158" alt="milky_way_hrd_cmd" src="https://github.com/user-attachments/assets/9003007c-dc1c-441c-b921-536a00068d41" />
 # Mapping the Milky Way: CMD & HRD from Scratch
 
 ## What and Why
@@ -41,3 +40,5 @@ With the physical metrics calculated, the stars were sliced into two distinct gr
 * **Super Metal-Rich (SMR) Stars:** +0.4 to +0.6
 
 Finally, the data was plotted into a 2x2 Matplotlib grid comparing the observational CMDs against the physical HRDs for both metallicity sets to visualize the structural changes and color shifts.
+
+<img width="4162" height="4158" alt="milky_way_hrd_cmd" src="https://github.com/user-attachments/assets/9003007c-dc1c-441c-b921-536a00068d41" />
