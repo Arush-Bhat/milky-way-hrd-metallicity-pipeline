@@ -24,9 +24,9 @@ $d = \frac{1000}{\text{parallax (mas)}}$
 
 **2. Absolute Magnitude ($M_G$):** Calculated using the experimentally derived distance modulus formula $m - M = 5\log_{10}(d/D)$. 
 Where $m$ is the apparent magnitude, and $D$ is the standard baseline distance of 10 parsecs. The derivation used in the code looks like this:
-$m - M = 5\log_{10}(d) - 5\log_{10}(10)$
-$m - M = 5\log_{10}(d) - 5(1)$
-$M = m - 5\log_{10}(d) + 5$
+$$m - M = 5\log_{10}(d) - 5\log_{10}(10)$$
+$$m - M = 5\log_{10}(d) - 5(1)$$
+$$M = m - 5\log_{10}(d) + 5$$
 
 **3. Observed Color Index:**
 Calculated simply by subtracting the Red Photometer band from the Blue Photometer band ($BP - RP$).
