@@ -81,6 +81,8 @@ axs[1, 1].set_ylabel('Absolute Magnitude ($M_G$)')
 axs[1, 1].set_xlim(hrd_x)
 axs[1, 1].set_ylim(mag_y)
 
-plt.tight_layout()
-print("Done! Displaying plots...")
+print("Saving plot to hard drive...")
+plt.savefig('milky_way_hrd_cmd.png', dpi=300, bbox_inches='tight')
+
+print("Done! Image saved as 'milky_way_hrd_cmd.png'. Displaying below...")
 plt.show()
