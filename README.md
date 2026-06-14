@@ -1,3 +1,4 @@
+<img width="4162" height="4158" alt="milky_way_hrd_cmd" src="https://github.com/user-attachments/assets/9003007c-dc1c-441c-b921-536a00068d41" />
 # Mapping the Milky Way: CMD & HRD from Scratch
 
 ## What and Why
