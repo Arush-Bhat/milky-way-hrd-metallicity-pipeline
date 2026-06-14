@@ -1,5 +1,3 @@
-# milky-way-hrd-metallicity-pipeline
-
 # Mapping the Milky Way: CMD & HRD from Scratch
 
 ## What and Why
