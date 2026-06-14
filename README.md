@@ -22,7 +22,7 @@ To plot the diagrams, the raw observational data was converted into physical abs
 **1. Distance:** Calculated in parsecs using the inverse of the parallax angle:
 $d = \frac{1000}{\text{parallax (mas)}}$
 
-**2. Absolute Magnitude ($M_G$):** Calculated using the experimentally derived distance modulus formula ($m - M = 5\log_{10}(d/D)$). 
+**2. Absolute Magnitude ($M_G$):** Calculated using the experimentally derived distance modulus formula $m - M = 5\log_{10}(d/D)$. 
 Where $m$ is the apparent magnitude, and $D$ is the standard baseline distance of 10 parsecs. The derivation used in the code looks like this:
 $m - M = 5\log_{10}(d) - 5\log_{10}(10)$
 $m - M = 5\log_{10}(d) - 5(1)$
